@@ -1,1 +1,1 @@
-# cumbatremotesystem
+# cumbatremotesystem allowed
